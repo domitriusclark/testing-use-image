@@ -1,10 +1,10 @@
 {
-  "name": "useImage",
-  "version": "1.0.0",
+  "name": "use-cloudinary-image",
+  "version": "0.0.4",
   "description": "Lightweight URL generation utilities for Cloudinary images ",
   "author": "domitriusclark",
   "license": "MIT",
-  "repository": "domitriusclark/useImage",
+  "repository": "domitriusclark/use-cloudinary-image",
   "main": "dist/index.js",
   "module": "dist/index.es.js",
   "jsnext:main": "dist/index.es.js",
@@ -66,5 +66,9 @@
     "rollup-plugin-node-resolve": "^4.0.0",
     "rollup-plugin-peer-deps-external": "^2.2.0",
     "rollup-plugin-url": "^2.1.0"
+  },
+  "dependencies": {
+    "@charlietango/use-native-lazy-loading": "^1.9.0",
+    "react-intersection-observer": "^8.29.1"
   }
 }
