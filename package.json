@@ -1,6 +1,6 @@
 {
   "name": "use-cloudinary-image",
-  "version": "0.0.4",
+  "version": "1.0.0",
   "description": "Lightweight URL generation utilities for Cloudinary images ",
   "author": "domitriusclark",
   "license": "MIT",
